@@ -1,6 +1,6 @@
 /*
  * Project AnalogOutputs
- * Description:
+ * Description: Changes through colors every second on the LED in a loop: red, green, blue, etc .
  * Author: Vikash Kaushik
  * Date:6/30/21
  */
